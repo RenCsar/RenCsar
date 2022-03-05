@@ -1,4 +1,4 @@
-<div style="display: inline_block" align="center">
+<div style="display: inline_block" align="left">
  <h2> Olá, eu sou o Renan Cesar!</h2>
 
 🚧 Em construção 🚧
