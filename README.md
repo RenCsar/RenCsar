@@ -6,9 +6,6 @@
  ```
 Ex-eletrotécnico, estudante de Análise e Desenvolvimento de sistemas e futuro desenvolvedor front-end.
 ```
- 
- 
-🚧 Em construção 🚧
 
 ## GitHub Stats
 
