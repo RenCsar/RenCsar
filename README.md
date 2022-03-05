@@ -1,13 +1,19 @@
-<div style="display: inline_block" align="left">
+<div style="display: inline_block" align="center">
  
 ### Olá, eu sou o Renan Cesar!
-
+</div>
+ 
+ ```
+Ex-eletrotécnico, estudante de Análise e Desenvolvimento de sistemas e futuro desenvolvedor front-end.
+```
+ 
  
 🚧 Em construção 🚧
 
-## 
+## GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rencsar&show_icons=true&theme=dark)
+[![RenCsar](https://github-readme-stats.vercel.app/api/top-langs/?username=RenCsar&hide=html&layout=compact=true&theme=dark)](https://github.com/RenCsar)
  
 
 
@@ -24,7 +30,7 @@
  ## Contato
  
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-cesar-a7155ab3/)
-</div>
+
 
 
 
