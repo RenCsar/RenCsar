@@ -4,7 +4,7 @@
 </div>
  
  ```
-Eletrotécnico, estudante de Análise e Desenvolvimento de sistemas e futuro desenvolvedor front-end.
+Formado em Análise e Desenvolvimento de sistemas e futuro desenvolvedor front-end.
 ```
 
 ## GitHub Stats
