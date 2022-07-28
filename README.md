@@ -7,14 +7,11 @@
   <img align="right" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+</div><br>
 
-<div align="left">
-  <pre><code>Formado em Análise e Desenvolvimento
-de sistemas e me qualificando nas
-tecnologias <span class="hljs-keyword">front</span>-<span class="hljs-keyword">end</span>.
-  </code></pre>
-  
+<div align="left"><br>
+🏅 Formado em Análise e Desenvolvimento de sistemas.<br>
+💻 Me qualificando nas tecnologias frontend.<br>  
   <h4>Contato:</h4>
  
   <div>
