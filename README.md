@@ -10,8 +10,9 @@
 </div>
 
 <div align="left">
-  <pre><code>Formado em Análise e Desenvolvimento de sistemas 
-e me qualificando nas tecnologias <span class="hljs-keyword">front</span>-<span class="hljs-keyword">end</span>.
+  <pre><code>Formado em Análise e Desenvolvimento
+de sistemas e me qualificando nas tecnologias 
+<span class="hljs-keyword">front</span>-<span class="hljs-keyword">end</span>.
   </code></pre>
   
   <h4>Contato:</h4>
