@@ -1,33 +1,24 @@
-<div style="display: inline_block" align="center">
- 
-### Olá, eu sou o Renan Cesar!
+<h3>Olá, eu sou o Renan Cesar.</h3>
+<hr>
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenCsar&layout=compact&langs_count=7&theme=dark" align="right" />  
 </div>
+<div>
+  <img align="right" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="right" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+<div align="left">
+  <pre><code>Formado em Análise e Desenvolvimento de sistemas 
+e me qualificando nas tecnologias <span class="hljs-keyword">front</span>-<span class="hljs-keyword">end</span>.
+  </code></pre>
+  
+  <h4>Contato:</h4>
  
- ```
-Formado em Análise e Desenvolvimento de sistemas e futuro desenvolvedor front-end.
-```
-
-## GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rencsar&show_icons=true&theme=dark)
-[![RenCsar](https://github-readme-stats.vercel.app/api/top-langs/?username=RenCsar&hide=html&layout=compact=true&theme=dark)](https://github.com/RenCsar)
- 
-
-
-
-## Tecnologias que estou estudando no momento 💻
-
-
-
-[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
-[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://pt-br.reactjs.org/docs/getting-started.html)
- 
- ## Contato
- 
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-cesar/)
-
-
-
-
+  <div>
+     <a href="https://api.whatsapp.com/send?phone=5521990926768&text=sua%20mensagem" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
+    <a href="https://www.linkedin.com/in/Renan-Cesar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  </div>
+  <hr>
+</div>
