@@ -12,7 +12,7 @@
 
 <div align="left"><br>
 🏅 Formado em Análise e Desenvolvimento de sistemas.<br>
-💻 Me qualificando nas tecnologias frontend.<br>  
+💻 Me qualificando no desenvolvimento web.<br>  
   <h4>Contato:</h4>
  
   <div>
